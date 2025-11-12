@@ -6,7 +6,7 @@ This Tableau project analyzes the key factors influencing employee attrition, pr
 Using an HR dataset containing employee demographics, job details, performance ratings, and salary data, the dashboard enables HR professionals and management to make data-driven decisions on workforce retention, performance improvement, and cost optimization.
 
 ## Tableau Public Link
-https://public.tableau.com/app/profile/muhammed.jaseem.vt/viz/HREmployeeAttritionandPerformanceAnalysisDashboard/FinancialInsight?publish=yes
+https://public.tableau.com/app/profile/muhammed.jaseem.vt/viz/HREmployeeAttritionandPerformanceAnalysisDashboard/StoryHREmployeeAttritionPerformanceStory?publish=yes
 
 ## Key Insights
 - The **Sales and R&D departments** showed the highest attrition rates, driven primarily by longer work hours and low satisfaction scores.  
