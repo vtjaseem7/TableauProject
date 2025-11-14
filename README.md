@@ -13,14 +13,14 @@ https://public.tableau.com/app/profile/muhammed.jaseem.vt/viz/HREmployeeAttritio
 - Employees with **over 10 years of experience** had significantly lower attrition, indicating stronger retention among senior staff.  
 - **Promotion rate and performance rating** displayed a strong positive correlation — departments with higher performance averages had more promotions.  
 - **Financial analysis** revealed that higher job levels and regions like **Bangalore and Pune** had the largest payroll costs.  
-- Gender and age distribution visualizations indicated a balanced workforce, with a slight male dominance in technical roles.
+- Gender and age distribution visualizations indicated a balanced workforce, with a slight female dominance in technical roles.
 
 ## Features Used
-- **LOD Expression(s)**: Used for fixed calculations such as average income or attrition across departments.  
-- **Parameter**: Allows users to switch between department or region-wise metrics dynamically.  
+- **LOD Expression(s)**: Used for fixed calculations such as  attrition across departments.  
+- **Parameter**: Allows users to switch between department or education metrics dynamically.  
 - **Dashboard Actions**: Implemented for interactivity — clicking on charts filters other visuals contextually.  
 - **Table Calculation**: Used to calculate attrition percentages, rankings, and promotion ratios.  
-- **Story Page**: Used to narrate the insights across the four dashboards for HR presentation purposes.
+
 
 ## Repository Contents
 - **data/** – Contains the HR Employee Attrition Analysis dataset (`.xlsx`)  
